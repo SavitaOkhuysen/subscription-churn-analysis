@@ -3,6 +3,7 @@
 A product analytics case study analyzing 7,043 real customer records from a subscription service to identify churn drivers, quantify revenue impact, and deliver prioritized retention recommendations. Combines an executive dashboard with deep-dive analysis across contract types, service adoption, payment methods, and customer segments.
 
 ## The Business Question
+**[Explore the live interactive dashboard →](https://savitaokhuysen.github.io/subscription-churn-analysis/)**
 
 Where should a subscription business focus retention efforts to maximize revenue impact? This analysis answers that by identifying which customer segments churn the most, which product levers reduce churn, and where the largest revenue losses are concentrated.
 
